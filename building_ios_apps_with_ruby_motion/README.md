@@ -1,14 +1,10 @@
 # My Talk Title: Building iOS Apps With RubyMotion
 
-My talk description.
+RubyMotion is a tool that lets Ruby developers write native iOS apps using the Ruby language. It's based on MacRuby which is an implementation of the Ruby language for Mac OS X. This talk will introduce RubyMotion with some simple live code demos and a twist of TDD. The level is introductory; you don't need to know Ruby or iOS to attend.
 
 ## My Name: Ray Hightower
 
-Ray Hightower organizes the ChicagoRuby user group and the
-WindyCityRails conference. He is the founder of WisdomGroup, a
-software company that builds apps with Ruby on Rails and Objective-C. In
-addition to speaking on entrepreneurship and software
-development, Hightower has served as a mentor for the Code Academy and Lean Startup Machine - Chicago.
+Ray Hightower organizes the ChicagoRuby user group and the WindyCityRails conference. He is the founder of WisdomGroup, a software company that builds apps with Ruby on Rails and Objective-C. Hightower is a perpetual student of software development and business growth.
 
 ![Profile picture](http://rayhightower.com/assets/rth_500x500.jpg)
 
