@@ -1,14 +1,18 @@
-# My Talk Title
+# My Talk Title: Building iOS Apps With RubyMotion
 
 My talk description.
 
-## My Name
+## My Name: Ray Hightower
 
-My bio.
+Ray Hightower organizes the ChicagoRuby user group and the
+WindyCityRails conference. He is the founder of WisdomGroup, a
+software company that builds apps with Ruby on Rails and Objective-C. In
+addition to speaking on entrepreneurship and software
+development, Hightower has served as a mentor for the Code Academy and Lean Startup Machine - Chicago.
 
-![Profile picture](http://dummyimage.com/500x500)
+![Profile picture](http://gravatar.com/rayhightower)
 
-- [My website](http://example.com)
-- [My twitter](https://twitter.com/twitter-handle)
-- [Past talk slides](http://example.com)
-- [Past talk video](http://example.com)
+- [My website](http://rayhightower.com/)
+- [My twitter](https://twitter.com/rayhightower)
+- [Past talk slides](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion)
+- [Past talk video](http://rayhightower.com/blog/2012/08/31/four-steps-five-minutes/)
