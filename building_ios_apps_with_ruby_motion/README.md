@@ -12,7 +12,7 @@ development, Hightower has served as a mentor for the Code Academy and Lean Star
 
 ![Profile picture](http://rayhightower.com/assets/rth_500x500.jpg)
 
-- [My website](http://rayhightower.com/)
-- [My twitter](https://twitter.com/rayhightower)
-- [Past talk slides](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion)
-- [Past talk video](http://rayhightower.com/blog/2012/08/31/four-steps-five-minutes/)
+- [My website - RayHightower.com](http://rayhightower.com/)
+- [My twitter - @RayHightower](https://twitter.com/rayhightower)
+- [Past talk slides - From SpeakerDeck](https://speakerdeck.com/rayhightower/building-ios-apps-with-rubymotion)
+- [Past talk video - Four Steps, Five Minutes](http://rayhightower.com/blog/2012/08/31/four-steps-five-minutes/)
