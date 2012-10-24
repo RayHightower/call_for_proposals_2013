@@ -10,7 +10,7 @@ software company that builds apps with Ruby on Rails and Objective-C. In
 addition to speaking on entrepreneurship and software
 development, Hightower has served as a mentor for the Code Academy and Lean Startup Machine - Chicago.
 
-![Profile picture](http://gravatar.com/rayhightower)
+![Profile picture](http://rayhightower.com/assets/rth_500x500.jpg)
 
 - [My website](http://rayhightower.com/)
 - [My twitter](https://twitter.com/rayhightower)
