@@ -1,10 +1,14 @@
-# My Talk Title
+# My Talk Title: Extending RubyMotion With Gems and Pods
 
-My talk description.
+RubyMotion enables developers to write native iOS apps using the Ruby language. Developers can amplify the power of RubyMotion by using of some of the available libraries, packaged as Gems and Pods. This talk will demonstrate some of the more popular libraries, while highlighting some of the "gotchas".
 
-## My Name
+The first eight minutes will introduce RubyMotion for those who are unfamiliar with it. The remainder of the talk will feature demos of the libraries in action, live coding, and a generous helping of TDD. To get the most out of the talk, the audience member should have some experience programming iOS, Ruby, or both.
 
-My bio.
+This talk is the sequel to the talk that the presenter delivered at AlohaRuby and MagicRuby in October 2012. Video is available at http://rayhightower.com.
+
+## My Name: Ray Hightower
+
+Ray Hightower organizes the ChicagoRuby user group and the WindyCityRails conference. He is the founder of WisdomGroup, a software company that builds apps with Ruby on Rails and Objective-C. Hightower is a perpetual student of software development and business growth.
 
 ![Profile picture](http://rayhightower.com/assets/rth_500x500.jpg)
 
